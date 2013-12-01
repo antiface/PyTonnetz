@@ -1,3 +1,5 @@
+NOTE: BELOW IS THE ORIGINAL README FROM THE ORIGINAL REPO FOR PYSYNTH BY MDOEGE. I WILL BE PLAYING WITH IT AND IT WILL EVENTUALLY BECOME ITS OWN SEPARATE, YET RELATED, PROJECT. FOR NOW, NOTHING HAS BEEN CHANGED, AND SO IT IS A SIMPLE FORK. ALL THE USUAL RULES APPLY, IT'S JUST THAT IN A FEW MONTHS IT MIGHT LOOK NOTHING LIKE THIS.
+
 ## Overview
 
 PySynth is a simple music synthesizer written in Python. The goal is not to produce many different sounds, but to have scripts that can turn ABC notation into a WAV file without too much tinkering.
